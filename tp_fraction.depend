@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1709833792 source:c:\devs\language c\tp_classe\tp_fraction\fraction.c
+	"fraction.h"
+	<stdio.h>
+
+1709831964 c:\devs\language c\tp_classe\tp_fraction\fraction.h
+
+1709833802 source:c:\devs\language c\tp_classe\tp_fraction\main.c
+	<stdio.h>
+	"fraction.h"
+
